@@ -1,4 +1,4 @@
-### Olá sou o Aline Fedorowicz
+### Olá, sou Aline Fedorowicz 🛸
 
 <p> Software Developer <p/>
 
