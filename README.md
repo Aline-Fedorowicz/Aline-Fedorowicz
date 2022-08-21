@@ -1,6 +1,6 @@
-### Olá, sou Aline Fedorowicz 🛸
+### Olá, sou Aline Fedorowicz 
 
-<p> Software Developer <p/>
+<p> Front-end <p/>
 
 
 <div>
@@ -10,7 +10,7 @@
 <div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Csharp" height="30" width="40" src="https://img2.gratispng.com/20180730/tua/kisspng-vue-js-javascript-library-react-angularjs-hsv-logo-5b5ec7875b3ec4.1961775115329381193738.jpg">
+<img align="center" alt="Csharp" height="30" width="40" src="https://avatars.githubusercontent.com/u/16445995?s=200&v=4">
 <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
