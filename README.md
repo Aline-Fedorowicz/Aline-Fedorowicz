@@ -1,4 +1,4 @@
-### Olá, sou Aline Fedorowicz 
+### Olá, sou Aline Fedorowicz 🟣
 
 <p> Front-end <p/>
 
