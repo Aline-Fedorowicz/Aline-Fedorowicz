@@ -1,4 +1,3 @@
-### Olá, sou Aline Fedorowicz 🟣
 
 <h4> Front-end <h4/>
 
