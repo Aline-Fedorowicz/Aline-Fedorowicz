@@ -1,17 +1,41 @@
-
-<h4> Front-end <h4/>
-
+## Olá, Sou Aline 👩‍💻
 
 
+#### Desenvolvedora
+ - Web 💻
+ - Mobile 📱
+
+#### Habilidades
+- VueJS
+- React Native
+- ReactJS
+- CSS / HTML
+- Axios Request
+- Design Responsivo
+- Figma
+- Sistema de gerenciamento de versão (Git)
 <div style="display: inline_block"><br>
-<img align="center" alt="Csharp" height="30" width="40" src="https://avatars.githubusercontent.com/u/16445995?s=200&v=4">
-<img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Ts" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+---
+
+### Principais Projetos ⭐
+<a href="https://github.com/aline-fedorowicz/NlwLetmeask">
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="30" align="center"/> Nlw Letmeask
+</a><br/><br/>
+
+💬 Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
+
+<hr/>
+
+
   
 ##
   
  <div> 
-  <a href = "mailto: alinewicz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/aline-fedorowicz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://instagram.com/alinewicz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "alinewicz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/aline" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
