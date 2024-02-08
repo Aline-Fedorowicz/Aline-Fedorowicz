@@ -1,4 +1,4 @@
-## Olá, Sou Aline 👩‍💻
+## Olá, Sou Aline 👋
 
 
 #### Desenvolvedora
